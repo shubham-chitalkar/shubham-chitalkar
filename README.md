@@ -1,43 +1,49 @@
-# Hi 👋 I'm Shubham  
+<h1 align="center">Hi 👋 I'm Shubham</h1>
+<h3 align="center">Aspiring DevOps & Cloud Engineer</h3>
 
-🎓 Final Year Engineering Student  
-🚀 Aspiring DevOps & Cloud Engineer  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- Learning DevOps with a **hands-on, practical approach**
-- Strong basics in **Linux, Git, GitHub**
-- Currently working on **Shell scripting, Docker, CI/CD**
-- Interested in **Cloud, Automation & Infrastructure**
+I’m a final year engineering student focused on building a career in **DevOps and Cloud Engineering**.  
+I learn by **doing** — solving real system problems using Linux, scripting, and automation.
+
+I enjoy working on tasks related to **monitoring, backups, deployments, and reliability**.
 
 ---
 
-## 🛠️ Skills & Tools
-- Linux | Git | GitHub  
-- Shell Scripting  
-- Docker (Basics)  
-- Python (for DevOps – Learning)  
-- AWS / Cloud (Learning)
+## 🧰 Tech Stack
+- 🐧 Linux
+- 🔧 Git & GitHub
+- 📜 Shell Scripting
+- 🐳 Docker (Basics)
+- 🐍 Python for DevOps (Learning)
+- ☁️ Cloud Fundamentals (Learning)
 
 ---
 
-## 📂 Hands-on Projects
-🔹 **Service Monitoring Script**  
-🔹 **Disk Usage Monitoring & Cleanup**  
-🔹 **Auto Backup & Archiving Automation**  
-🔹 **Log Analysis using journalctl**
+## 📂 Practical DevOps Work
+✔ Service Monitoring & Auto-Restart  
+✔ Disk Usage Monitoring & Cleanup  
+✔ Auto Backup & Archiving Automation  
+✔ System & Service Log Analysis (`journalctl`)
 
-👉 Each project includes real commands, scripts, and explanations.
+> Each repository contains scripts, commands, and real use cases.
 
 ---
 
 ## 📈 Current Focus
 - Writing **daily-use DevOps scripts**
-- Improving **English communication**
-- Building **real-world DevOps projects**
+- Building **real-world automation projects**
+- Strengthening **Linux, Docker & CI/CD fundamentals**
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (add link)
+## 🔗 Connect With Me
+- 💼 LinkedIn: *add your link here*
