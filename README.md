@@ -12,8 +12,7 @@
 
 ## 👨‍💻 About Me
 I’m a final year engineering student focused on building a career in **DevOps and Cloud Engineering**.  
-I learn by **doing** — solving real system problems using Linux, scripting, and automation.
-
+I learn by **doing**solving real system problems using Linux, scripting, and automation.
 I enjoy working on tasks related to **monitoring, backups, deployments, and reliability**.
 
 ---
