@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Shubham  
 
-<!--
-**shubham-chitalkar/shubham-chitalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Engineering Student  
+🚀 Aspiring DevOps & Cloud Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Learning DevOps with a **hands-on, practical approach**
+- Strong basics in **Linux, Git, GitHub**
+- Currently working on **Shell scripting, Docker, CI/CD**
+- Interested in **Cloud, Automation & Infrastructure**
+
+---
+
+## 🛠️ Skills & Tools
+- Linux | Git | GitHub  
+- Shell Scripting  
+- Docker (Basics)  
+- Python (for DevOps – Learning)  
+- AWS / Cloud (Learning)
+
+---
+
+## 📂 Hands-on Projects
+🔹 **Service Monitoring Script**  
+🔹 **Disk Usage Monitoring & Cleanup**  
+🔹 **Auto Backup & Archiving Automation**  
+🔹 **Log Analysis using journalctl**
+
+👉 Each project includes real commands, scripts, and explanations.
+
+---
+
+## 📈 Current Focus
+- Writing **daily-use DevOps scripts**
+- Improving **English communication**
+- Building **real-world DevOps projects**
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
